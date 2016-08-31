@@ -1,3 +1,14 @@
 header {
   background-color: blue;
+  color: rgba(75,55,55, 0.5);
+}
+
+.container {
+  background-color: blue;
+  color: #0000A0;
+}
+
+#rebar {
+  color: salmon;
+  margin-top: 5000px;
 }
